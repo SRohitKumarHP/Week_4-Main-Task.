@@ -23,3 +23,11 @@ ScrewDetector/
 |--train.py
 |--detect.py
 |--test.jpg
+
+Steps to be followed:
+First, open this folder in VS Code or the Command Prompt.
+Create a Virtual environment by running:
+  1. python -m venv venv
+  2. venv\Scripts\activate
+  3. Then you will see something like this "(venv) PS D:\YourProject>".
+(Note: A virtual environment creates an isolated Python environment for a project, so its packages and versions don't conflict with those of other projects.)
