@@ -15,4 +15,11 @@ ScrewDetector/
 |    |--screw_002.jpg
 |    .
 |    .
+|
 |--models/
+|  |--screw_detector.pth
+|
+|--dataset.py
+|--train.py
+|--detect.py
+|--test.jpg
