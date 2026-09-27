@@ -24,7 +24,7 @@ ScrewDetector/
 |--detect.py
 |--test.jpg
 ```
-# Steps to be followed:
+## Steps to be followed:
 First, open this folder in VS Code or the Command Prompt.
 Create a Virtual environment by running:
   1. python -m venv venv
